@@ -156,10 +156,3 @@ for(let i=0; i<Buttons.length;i++){
 
 }
 let game = setInterval(draw, 100);
-
-/*
-ctx.fillStyle ='red'
-ctx.fillRect((snake[1].x)*box,(snake[1].y)*box,box,box);
-
-ctx.fillStyle="red"*/
-//ctx.fillRect(5*box,4*box,box,box);
