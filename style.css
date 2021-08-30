@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.canvas{
+    box-shadow: black 20px 10px 50px;
+    background-color: black;
+}
+h1{
+    margin-bottom: 0;
+}
+.controle{
+    margin: 30px;
+    margin-top: 70px;
+}
+.controle button{
+    margin: 30px;
+
+}
